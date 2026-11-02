@@ -1,4 +1,0 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
-    <!-- The host app must add its own AdMob APPLICATION_ID metadata
-         inside the final merged <application> element. -->
-</manifest>
